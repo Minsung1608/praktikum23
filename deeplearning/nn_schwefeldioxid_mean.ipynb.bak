@@ -100,6 +100,13 @@
    "execution_count": 2,
    "id": "763f91c1-4659-4e10-a45a-d0c3b3629c0f",
    "metadata": {
+<<<<<<< HEAD
+    "collapsed": true,
+    "jupyter": {
+     "outputs_hidden": true
+    },
+=======
+>>>>>>> 4202fedea249f9ec58b1544e489b46808f70380e
     "tags": []
    },
    "outputs": [
@@ -200,6 +207,13 @@
    "execution_count": 4,
    "id": "e238d808-9246-42b7-8196-95b0da056cff",
    "metadata": {
+<<<<<<< HEAD
+    "collapsed": true,
+    "jupyter": {
+     "outputs_hidden": true
+    },
+=======
+>>>>>>> 4202fedea249f9ec58b1544e489b46808f70380e
     "tags": []
    },
    "outputs": [
@@ -1027,9 +1041,15 @@
  ],
  "metadata": {
   "kernelspec": {
+<<<<<<< HEAD
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+=======
    "display_name": "ML (based on the latest module pytorch)",
    "language": "python",
    "name": "ml-aim"
+>>>>>>> 4202fedea249f9ec58b1544e489b46808f70380e
   },
   "language_info": {
    "codemirror_mode": {
